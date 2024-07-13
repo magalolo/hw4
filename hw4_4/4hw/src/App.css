@@ -1,0 +1,21 @@
+.app {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.buttons {
+  margin-bottom: 20px;
+}
+
+.buttons button {
+  margin-right: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 5px;
+}
